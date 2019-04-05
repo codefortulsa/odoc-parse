@@ -6,7 +6,7 @@ DESCRIPTION In July of 2017, Reveal from The Center for Investigative Reporting 
 
 ## Setup
 
-1 create an python virtualenv
+1 create a python 3.6.5 virtualenv
 
 1 `pip install -r requirements.txt`
 
