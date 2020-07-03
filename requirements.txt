@@ -4,3 +4,4 @@ jupyter-console==6.1.0
 jupyter-core==4.6.3
 numpy==1.19.0
 pandas==1.0.5
+matplotlib==3.2.2
